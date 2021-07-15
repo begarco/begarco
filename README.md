@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">A passionate software crafter</h3>
 
-<!--
-**begarco/begarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello world 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on GitLab, Java, Jenkins, Jira and Docker.
+- 🌱 I’m currently learning Python and Deep Learning.
+- 👯 I’m looking to collaborate on whatever can help.
+- 💬 Ask me about Software Factory, automation and Scrum.
+- 📫 How to reach me: @begarco
+- ⚡ Fun fact: I run faster than a lion, that's why I'm still alive 🦁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=begarco&theme=monokai )
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=begarco)](https://github.com/ryo-ma/github-profile-trophy)
