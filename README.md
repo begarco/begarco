@@ -9,6 +9,4 @@
 - 📫 How to reach me: @begarco
 - ⚡ Fun fact: I run faster than a lion, that's why I'm still alive 🦁
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=begarco&theme=monokai )
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=begarco)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=begarco&theme=monokai)
